@@ -1,0 +1,12 @@
+name = "IceFlow"
+uuid = "be5b659c-fd7e-4d08-b95e-1d9d26b507de"
+authors = ["Ludovic Raess <ludovic.rass@gmail.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[deps]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
+UnPack = "3a884ed6-31ef-47d7-9d2a-63182c4928ed"
